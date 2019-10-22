@@ -2,4 +2,4 @@
 
 ## Part 1
 
-[1.1](./part01/exercise01/README.md)
+[Exercise 1.1](./part01/exercise01/README.md)
